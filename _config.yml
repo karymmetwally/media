@@ -3,3 +3,9 @@ title: Karym Metwally's Page
 remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+    - { platform: subscribe, user_url: "https://twitter.com/jekyllrb" }
