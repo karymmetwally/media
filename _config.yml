@@ -1,2 +1,4 @@
 theme: minima
-
+header_pages:
+- news.md
+- media.md
