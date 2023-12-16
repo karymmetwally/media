@@ -1,7 +1,8 @@
-title: Karym Metwally's Nedia
-
+title: 🕶 Karym Metwally's Blog
 theme: minima
+logo: nobody.png
 
-header_pages:
-- media.md
-- news.md
+header_pages: 
+   - Books.md
+   - Nutrition.md
+   - Writing.md
