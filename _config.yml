@@ -3,6 +3,6 @@ theme: minima
 logo: nobody.png
 
 header_pages: 
-   - Books.md
+   - media.md
    - Nutrition.md
    - Writing.md
