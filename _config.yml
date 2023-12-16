@@ -1,1 +1,5 @@
+title: Karym Metwally's Nedia
 theme: minima
+header_pages:
+- media.md
+- news.md
