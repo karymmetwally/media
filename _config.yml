@@ -1,2 +1,6 @@
 remote_theme: jekyll/minima
-title: Hello
+title: Karym Metwally's Page
+
+header_pages:
+- media.md
+- news.md
