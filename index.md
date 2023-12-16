@@ -3,5 +3,5 @@
 
 
 
-|    |    |    |    |
+| [news](news.md)  |  [news](news.md) |    |  [news](news.md) |
 |----|----|----|----|
