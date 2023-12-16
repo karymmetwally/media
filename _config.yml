@@ -9,5 +9,5 @@ minima:
   skin: auto
   
 header_pages:
-  - about.md
-  - portfolio.md
+  - news.md
+  - media.md
