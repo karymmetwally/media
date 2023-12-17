@@ -1,4 +1,8 @@
-## Shipping companies halt Red Sea shipments due to Houthi attacks
+---
+title:  News
+---
+
+### Shipping companies halt Red Sea shipments due to Houthi attacks
 
 The world's two largest container shipping lines said Friday they were suspending transit through the Red Sea after their ships were attacked.
 
