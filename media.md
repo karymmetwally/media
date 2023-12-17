@@ -1,4 +1,4 @@
-### Industrial crisis? Not for the States!
+Industrial crisis? Not for the States!
 
 While Europe's industry is in ruins, US industry is going through an actual manufacturing boom.
 
