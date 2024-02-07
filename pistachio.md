@@ -1,3 +1,0 @@
-Pistachio and walnut shells, often wasted during food processing, contain valuable components. Researchers used subcritical water technology to extract these components in an environmentally friendly way. 
-The subcritical water method yielded extracts rich in bioactive compounds like phenols and flavonoids.
-They tested different temperatures and times to see what works best. They compared this method to using chemicals like acetone or ethanol. It also produced high antioxidant activity. Additionally, it extracted sugars and their derivatives effectively. This study suggests that subcritical water technology is more efficient for extracting valuable components from biowaste compared to traditional methods, while also producing useful byproducts.
