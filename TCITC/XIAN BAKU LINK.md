@@ -1,0 +1,2 @@
+
+In early January, the first train of the year from Xi'an, China, arrived at the port of Baku, completing the journey eleven days, though it could have been even faster had there not been stormy conditions.
