@@ -3,7 +3,7 @@
 
 ---
 
-### US is not making AI chips on premises today, top minister says
+### US is not making AI chips on premises today, minister says
 
 The US lags behind China in terms of investment in the development and production of semiconductors, despite the US administration's adoption of the "Chip Act", the US Secretary of Commerce Gina Raimondo stated at a hearing of the US House of Representatives Committee on Science, Space and Technology.
 
