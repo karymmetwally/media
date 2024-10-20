@@ -4,6 +4,9 @@ title:  News
 
 ### Shipping companies halt Red Sea shipments due to Houthi attacks
 
+If you feel bored switch the channel.
+
+
 The world's two largest container shipping lines said Friday they were suspending transit through the Red Sea after their ships were attacked.
 
 A.P. Moller-Maersk A/S, the world’s second-largest owner of container ships, said in a statement on Friday that it has instructed its vessels heading for the southern entrance of the Red Sea to pause their voyages.
